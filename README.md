@@ -1,4 +1,4 @@
 # asdollar-protocol
 
 
-##Coming soon to open source
+#Coming soon to open source
